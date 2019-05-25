@@ -25,4 +25,4 @@ Procedure:-
         ii) Use the graphs to improvise recommendation process.
 
 
- 
+ * requires "sox" software to be downloaded in order to convert ".au" file to ".wav" format, also check the path where it's installed.
