@@ -11,7 +11,7 @@ Procedure:-
           
               a)Find recommended music based on your past songs.
           
-              b)Make new friends o the community.
+              b)Make new friends in the community.
  
               c)Listen to your friends' playlist.
        
